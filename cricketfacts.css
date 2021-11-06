@@ -1,0 +1,12 @@
+body {
+  background: white;
+  background-image: linear-gradient(to right top, #95a5bd, #6fbad4, #45cfcb, #6ddea1, #bde26a);
+}
+p {
+  color: rgb(10, 75, 250);
+  font-size: 16px;
+}
+h1 {
+  font-weight: bold;
+}
+

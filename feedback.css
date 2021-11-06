@@ -1,0 +1,13 @@
+body {
+  background: white;
+  background-image: linear-gradient(to right top, #b628b0, #8958cc, #5572d6, #2583d0, #288fc0);
+}
+p {
+  color: rgb(10, 75, 255;
+  float: left;
+  font-size: 20px;
+}
+
+h1 {
+  font-weight: bold;
+}

@@ -1,0 +1,42 @@
+body {
+  background-image: url(popularitybackgroundimg.jpeg);
+  background-size: 100%;
+}
+
+p {
+color: #0027ff;
+  float: left;
+  font-size: 20px;
+  color: rgb(10, 75, 250);
+}
+
+
+.boringbaseball {
+
+}
+
+.cricketgif {
+  float:right;
+}
+
+img {
+  border: solid #58ff00 10px;
+  border-style: double;
+}
+
+h3 {
+  letter-spacing: 4px;
+  background: rgb(96,0,255);
+  background: radial-gradient(circle, rgba(96,0,255,1) 0%, rgba(9,121,83,1) 35%, rgba(159,230,17,1) 100%);
+  border: solid blue 5px;
+  border-style: dotted;
+  border-radius: 500000px;
+}
+
+h1 {
+  background: rgb(1,0,255);
+  background: linear-gradient(90deg, rgba(1,0,255,1) 20%, rgba(16,131,92,1) 50%, rgba(17,230,50,1) 110%);
+  text-emphasis-color: aqua;
+  color: rgba(9,121,83,1);
+}
+
