@@ -2,6 +2,18 @@
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
+      <script language="javascript">
+      document.onmousedown=disableclick;
+      status="www.HowToCrazy.com";
+      Function disableclick(e)
+      {
+        if(event.button==2)
+          {
+            alert(status);
+            return false;
+          }
+      }
+      </script>
   </head>
   <body>
     <ol>
